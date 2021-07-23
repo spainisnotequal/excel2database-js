@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/spainisnotequal/excel2database-js#readme",
   "dependencies": {
-    "xlsx": "^0.15.6"
+    "xlsx": "^0.17.0"
   }
 }
